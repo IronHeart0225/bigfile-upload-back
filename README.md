@@ -1,2 +1,4 @@
 # bigfile-upload-back
-python flask
+
+pip install -r requirements.txt
+python pyfiledrop.py
